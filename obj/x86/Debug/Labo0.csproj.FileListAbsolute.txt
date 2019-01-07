@@ -1,0 +1,1482 @@
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Debug\Labo0.exe
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Debug\Labo0.pdb
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Debug\OpenTK.dll
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Debug\OpenTK.xml
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Debug\ResolveAssemblyReference.cache
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Debug\GenerateResource.read.1.tlog
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Debug\GenerateResource.write.1.tlog
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\ngazcon\Desktop\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\ngazcon\Desktop\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\ngazcon\Desktop\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+C:\Users\ngazcon\Desktop\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+C:\Users\ngazcon\Desktop\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\ngazcon\Desktop\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\ngazcon\Desktop\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\ngazcon\Desktop\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ngazcon\Desktop\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\ngazcon\Desktop\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ngazcon\Desktop\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\ngazcon\Desktop\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\ngazcon\Desktop\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\ngazcon\Desktop\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\sak\CG2015\LABORATORIOS\LAB00\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\sak\CG2015\LABORATORIOS\LAB00\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0 modificado\Labo0\Labo0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0c\Labo0\Labo0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\bin\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\bin\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\bin\Debug\OpenTK.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\bin\Debug\OpenTK.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0e\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\OpenTK.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\OpenTK.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\bin\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\bin\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\bin\Debug\OpenTK.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\bin\Debug\OpenTK.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Lab0g\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\bin\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\bin\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\bin\Debug\OpenTK.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\bin\Debug\OpenTK.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\Iluminacion\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\files\shaders\fshaderaux.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\files\shaders\vshaderaux.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\Labo0.exe
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\Labo0.pdb
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\OpenTK.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\OpenTK.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\files\shaders\fTextu.glsl
+E:\SUSANA\CompGrafica\2016\LABORATORIOS\TEXTURA\Labo0\Labo0\bin\Debug\files\shaders\vTextu.glsl
+D:\SAK\CG2016\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+D:\SAK\CG2016\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\shaders\fshader1.glsl
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\shaders\fshaderaux.glsl
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\shaders\fTextu.glsl
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\shaders\vshader1.glsl
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\shaders\vshaderaux.glsl
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\shaders\vTextu.glsl
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\Labo0.exe
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\Labo0.pdb
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\OpenTK.dll
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\OpenTK.xml
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+D:\SAK\CG2016\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+D:\SAK\CG2016\Texturas\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+D:\SAK\CG2016\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+D:\SAK\CG2016\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+D:\SAK\CG2016\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+D:\SAK\CG2016\Texturas\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\files\shaders\fTextu.glsl
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\files\shaders\vTextu.glsl
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\sak\CG2016\LABORATORIOS\TEXTURAS\TEXTURAS\soloTextu\Labo0\Labo0\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\files\shaders\fTextu.glsl
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\files\shaders\vTextu.glsl
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\Labo0.exe
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\Labo0.pdb
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\OpenTK.dll
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\OpenTK.xml
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+F:\UNS\MATERIAS\CGrafica\Practica Texturas\Texturas\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\files\shaders\fTextu.glsl
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\files\shaders\vTextu.glsl
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\Texturas - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p1.glsl
+C:\Users\Leandro\Desktop\TEXTURAS BIEN copia\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\TEXTURAS CON PHONG - CAMARA SPHERICAL - copia\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\GRAFICA BIEN\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\2 OBJETOS CON 2 TEXTURAS CON PHONG - CAMARA SPHERICAL\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Leandro\Desktop\Parser de obj+mtl\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\GRAFICA BIEN\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Leandro\Desktop\Parser de obj+mtl con subobjetos\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Leandro\Desktop\piso con paredes\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\piso con paredes - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Leandro\Desktop\colisiones + parser obj\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Nacho\Desktop\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Nacho\Desktop\blackout\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\laberinto\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Leandro\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\Nacho\Desktop\laberinto + camara con colisiones + luz que sigue al cubo\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Maxi\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\normalesPared.png
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\normalesPiso.png
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\normalMap\fBump.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\shaders\normalMap\vBump.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\154.JPG
+C:\Users\Nacho\Desktop\ULTIMO\escena\Labo0\Labo0\bin\Debug\files\Texturas\154_norm.JPG
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\154.JPG
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\154_norm.JPG
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\normalesPared.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\normalesPiso.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\shaders\normalMap\fBump.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\shaders\normalMap\vBump.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Nacho\Desktop\ULTIMO\escena BM\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\154.JPG
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\154_norm.JPG
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\normalesPared.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\normalesPiso.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\normalMap\fBump.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\normalMap\vBump.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Nacho\Desktop\ULTIMO\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\154.JPG
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\154_norm.JPG
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\normalesPared.png
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\normalesPiso.png
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\normalMap\fBump.glsl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\normalMap\vBump.glsl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Nacho\Desktop\Bump\escena BM - copia\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\154.JPG
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\154_norm.JPG
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\Bloodwing_Dif.bmp
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\brickwall.jpg
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\cherries.bmp
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\fruit.bmp
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\hum.jpg
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\image.bmp
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\maggie.png
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\normalesPared.png
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\normalesPiso.png
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\Tex.png
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\wood_texture_001.png
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\CGUNS\Cameras\SphericalCamera.cs
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Bloodwing.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\CGUNS\ModelosOBJ\Rabbit.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\2kubos.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\Bed.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pisoMadera.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\llave.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\llave.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\snake.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\snake.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\spider.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\spider.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\armadura.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\armadura.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\columna.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\columna.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\shaders\normalMap\fBump.glsl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\shaders\normalMap\vBump.glsl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.Inicio.resources
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cubonormal.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cubonormal.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\normales.png
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\Conjunto1.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\Conjunto1.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\Bow1.jpg
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\CanvasTexture.jpg
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\dwood.jpg
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\MIsc.jpg
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cadenas.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cadenas.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cofre.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cofre.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\bolsas.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\bolsas.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\armas.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\armas.obj
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\puerta.mtl
+C:\Users\Nacho\Desktop\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\puerta.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\154.JPG
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\154_norm.JPG
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\CanvasTexture.jpg
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\dwood.jpg
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\normalesPiso.png
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\shaders\normalMap\fBump.glsl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\shaders\normalMap\vBump.glsl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\armas.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\armas.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\bolsas.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\bolsas.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cadenas.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cadenas.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cofre.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cofre.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cubonormal.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cubonormal.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\llave.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\llave.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\puerta.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\puerta.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\spider.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\spider.obj
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.Inicio.resources
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\Maxi\Desktop\Nueva carpeta\FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\Texturas\154.JPG
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\Texturas\154_norm.JPG
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\Texturas\CanvasTexture.jpg
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\Texturas\dwood.jpg
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\Texturas\normalesPiso.png
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\shaders\normalMap\fBump.glsl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\shaders\normalMap\vBump.glsl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\armas.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\armas.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\bolsas.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\bolsas.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\cadenas.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\cadenas.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\cofre.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\cofre.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\cubonormal.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\cubonormal.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\llave.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\llave.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\puerta.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\puerta.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\spider.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\spider.obj
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\juani\Downloads\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\juani\Downloads\Labo0\Labo0\obj\x86\Debug\Labo0.csprojResolveAssemblyReference.cache
+C:\Users\juani\Downloads\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\juani\Downloads\Labo0\Labo0\obj\x86\Debug\Labo0.Inicio.resources
+C:\Users\juani\Downloads\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\juani\Downloads\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\juani\Downloads\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.Cache
+C:\Users\juani\Downloads\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\juani\Downloads\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\Texturas\154.JPG
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\Texturas\154_norm.JPG
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\Texturas\CanvasTexture.jpg
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\Texturas\dwood.jpg
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\Texturas\normalesPiso.png
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\Texturas\pared.jpg
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\Texturas\piso.png
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\BoundingBox.cs
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\CGUNS\Primitives\Piramide.cs
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\shaders\normalMap\fBump.glsl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\shaders\normalMap\vBump.glsl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\ftextshader_p.glsl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturasphong\vtextshader_p.glsl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\fTextu.glsl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\files\shaders\texturas\vTextu.glsl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\armas.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\armas.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\barril.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\bolsas.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\bolsas.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cadenas.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cadenas.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cofre.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cofre.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cubonormal.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\cubonormal.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\estatua.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\kubo2.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\llave.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\llave.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\pared2.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\piso.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\puerta.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\puerta.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\spider.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\spider.obj
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\ModelosOBJ\techo.mtl
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\Labo0.exe.config
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\Labo0.exe
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\Labo0.pdb
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\OpenTK.dll
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\OpenTK.xml
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.csprojAssemblyReference.cache
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.Inicio.resources
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.GenerateResource.cache
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.CoreCompileInputs.cache
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.csproj.CopyComplete
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\juani\Google Drive\UNIVERSIDAD\Computación Gráfica\PROYECTO FINAL\Labo0\Labo0\obj\x86\Debug\Labo0.pdb
